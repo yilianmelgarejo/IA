@@ -23,5 +23,5 @@ df_kick_test=pd.read_csv(url_dontgetkicked_test)
 
 ## Videos
 Video entrega 2 [https://www.youtube.com/watch?v=hI1qfn-OvdA]
-Video entrega final []
+Video entrega final [https://youtu.be/Vb7xJbboFtA]
 
